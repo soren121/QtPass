@@ -38,3 +38,10 @@ README.rtf
 html/**
 rtf/**
 latex/**
+man/**
+CMakeCache.txt
+CMakeFiles/**
+cmake-build-debug/**
+cmake_install.cmake
+qtpass.cbp
+qtpass_autogen/**
