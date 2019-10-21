@@ -45,3 +45,10 @@ cmake-build-debug/**
 cmake_install.cmake
 qtpass.cbp
 qtpass_autogen/**
+libqtpasslib.a
+main/CMakeFiles/**
+qtpasslib_autogen/**
+src/CMakeFiles/**
+main/qtpass_autogen/**
+src/localization/**
+src/qtpasslib_autogen/**

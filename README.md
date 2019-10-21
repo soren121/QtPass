@@ -76,7 +76,15 @@ On Mac OS X this currently seems to only work best with `pinentry-mac` from home
 
 On most unix systems all you need is:
 ```
-qmake && make && make install
+qmake
+make
+make install
+```
+
+Currently broken:
+```
+cmake .
+make
 ```
 
 Testing
