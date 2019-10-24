@@ -73,7 +73,6 @@ add_library(qtpasslib #SHARED
         usersdialog.ui
         util.cpp
         util.h
-        ../resources.qrc
         ${QM_FILES})
 
 target_link_libraries(qtpasslib Qt5::Widgets Qt5::Network Qt5::Svg)
