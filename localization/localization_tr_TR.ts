@@ -1,122 +1,292 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.1" language="tr_TR">
 <context>
     <name>ConfigDialog</name>
     <message>
         <location filename="../src/configdialog.ui" line="20"/>
         <source>Configuration</source>
-        <translation>Konfiguráció</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/configdialog.ui" line="737"/>
-        <source>Pass</source>
-        <translation>Pass</translation>
+        <location filename="../src/configdialog.ui" line="42"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
+        <location filename="../src/configdialog.ui" line="68"/>
+        <source>Clipboard behaviour:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/configdialog.ui" line="677"/>
-        <source>Native</source>
-        <translation>Natív</translation>
+        <location filename="../src/configdialog.ui" line="87"/>
+        <source>Use primary selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="94"/>
+        <source>Autoclear after:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="111"/>
         <location filename="../src/configdialog.ui" line="194"/>
         <source>Seconds</source>
-        <translation>Perc</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="162"/>
-        <source>Hide password</source>
-        <translation>Jelszó elrejtése</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="155"/>
-        <source>Hide content</source>
-        <translation>Oldal elrejtése</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="42"/>
-        <source>Settings</source>
-        <translation>Beállítások</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="68"/>
-        <source>Clipboard behaviour:</source>
-        <translation>Vágólap viselkedése:</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="87"/>
-        <source>Use primary selection</source>
-        <translation>Elsődleges kijelölés használata</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="94"/>
-        <source>Autoclear after:</source>
-        <translation>Automatikus törlés:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="143"/>
         <source>Content panel behaviour:</source>
-        <translation>A tartalompanel viselkedése:</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="155"/>
+        <source>Hide content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="162"/>
+        <source>Hide password</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="171"/>
         <source>Autoclear panel after:</source>
-        <translation>Automatikus törlés panel után:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="228"/>
         <source>Password Generation:</source>
-        <translation>Jelszó generáló:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="240"/>
         <source>Password Length:</source>
-        <translation>Jelszó hosszúság:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="274"/>
         <source>Characters</source>
-        <translation>Karakterek</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="302"/>
         <source>Use characters:</source>
-        <translation>Karakterek használata:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="320"/>
         <source>Select character set for password generation</source>
-        <translation>Válassza ki a karakterkészletet a jelszó generálásához</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="324"/>
         <source>All Characters</source>
-        <translation>Összes karakter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="329"/>
         <source>Alphabetical</source>
-        <translation>Betűrendes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="334"/>
         <source>Alphanumerical</source>
-        <translation>Alfanumerikus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="339"/>
         <source>Custom</source>
-        <translation>Egyedi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="377"/>
         <source>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</source>
-        <translation>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="394"/>
+        <source>Use PWGen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="401"/>
+        <source>Exclude capital letters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="411"/>
+        <source>Include special symbols </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="418"/>
+        <source>Generate easy to memorize but less secure passwords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="425"/>
+        <source>Exclude numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="444"/>
+        <source>Git:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="456"/>
+        <source>Use Git</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="470"/>
+        <source>Automatically add .gpg-id files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="477"/>
+        <source>Automatically push</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="484"/>
+        <source>Automatically pull</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="516"/>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="525"/>
+        <source>Use QRencode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="539"/>
+        <source>Use pass-otp extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="561"/>
+        <source>System:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="573"/>
+        <source>Use TrayIcon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="580"/>
+        <source>Start minimized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="587"/>
+        <source>Hide on close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="594"/>
+        <source>Always on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="619"/>
+        <source>Programs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="637"/>
+        <source>Select password storage program:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="646"/>
+        <source>Nati&amp;ve Git/GPG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="653"/>
+        <source>&amp;Use pass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="677"/>
+        <source>Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="683"/>
+        <source>Git</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="693"/>
+        <location filename="../src/configdialog.ui" line="700"/>
+        <location filename="../src/configdialog.ui" line="727"/>
+        <location filename="../src/configdialog.ui" line="758"/>
+        <location filename="../src/configdialog.ui" line="922"/>
+        <source>…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="707"/>
+        <source>GPG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="720"/>
+        <source>PWGen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="737"/>
+        <source>Pass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="748"/>
+        <source>pass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="767"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;www.passwordstore.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="798"/>
+        <source>Autodetect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="821"/>
+        <source>Profiles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="870"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="875"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="885"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/configdialog.ui" line="900"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="915"/>
@@ -124,207 +294,46 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use pwgen</source>
-        <translation type="vanished">pwgen használata</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="401"/>
-        <source>Exclude capital letters</source>
-        <translation>Nagybetűk kizárása</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="411"/>
-        <source>Include special symbols </source>
-        <translation>Speciális szimbólumok </translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="418"/>
-        <source>Generate easy to memorize but less secure passwords</source>
-        <translation>Könnyen megjegyezhető, de kevésbé biztonságos jelszavak létrehozása</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="425"/>
-        <source>Exclude numbers</source>
-        <translation>Számok kizárása</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="444"/>
-        <source>Git:</source>
-        <translation>Git:</translation>
-    </message>
-    <message>
-        <source>Use git</source>
-        <translation type="vanished">Git használata</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="470"/>
-        <source>Automatically add .gpg-id files</source>
-        <translation>A. GPG-ID fájlok automatikus hozzáadása</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="477"/>
-        <source>Automatically push</source>
-        <translation>Automatikusan leküldés</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="484"/>
-        <source>Automatically pull</source>
-        <translation>Automatikus lekérés</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="516"/>
-        <source>Extensions:</source>
-        <translation>Kiterjesztések:</translation>
-    </message>
-    <message>
-        <source>Use qrencode</source>
-        <translation type="vanished">Qrencode használata</translation>
-    </message>
-    <message>
-        <source>Use pass otp extension</source>
-        <translation type="vanished">Használja a pass OTP kiterjesztést</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="561"/>
-        <source>System:</source>
-        <translation>Rendszer:</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="573"/>
-        <source>Use TrayIcon</source>
-        <translation>TrayIcon használata</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="580"/>
-        <source>Start minimized</source>
-        <translation>Kezdés minimalizálva</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="587"/>
-        <source>Hide on close</source>
-        <translation>Elrejtés bezárásakor</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="594"/>
-        <source>Always on top</source>
-        <translation>Mindig felül</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="619"/>
-        <source>Programs</source>
-        <translation>Programok</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="637"/>
-        <source>Select password storage program:</source>
-        <translation>Jelszótároló program kiválasztása:</translation>
-    </message>
-    <message>
-        <source>Nati&amp;ve git/gpg</source>
-        <translation type="vanished">Native git/gpg</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="653"/>
-        <source>&amp;Use pass</source>
-        <translation>&amp;pass használata</translation>
-    </message>
-    <message>
-        <source>git</source>
-        <translation type="vanished">git</translation>
-    </message>
-    <message>
-        <source>gpg</source>
-        <translation type="vanished">gpg</translation>
-    </message>
-    <message>
-        <source>pwgen</source>
-        <translation type="vanished">pwgen</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="748"/>
-        <source>pass</source>
-        <translation>pass</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="767"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;www.passwordstore.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;www.passwordstore.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="798"/>
-        <source>Autodetect</source>
-        <translation>Automatikus felismerés</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="821"/>
-        <source>Profiles</source>
-        <translation>Profilok</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="870"/>
-        <source>Name</source>
-        <translation>név</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="875"/>
-        <source>Path</source>
-        <translation>Elérési út</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="885"/>
-        <source>Add</source>
-        <translation>Hozzáadása</translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="900"/>
-        <source>Delete</source>
-        <translation>Töröl</translation>
-    </message>
-    <message>
-        <source>Current password-store</source>
-        <translation type="vanished">Jelenlegi jelszótároló</translation>
-    </message>
-    <message>
         <location filename="../src/configdialog.ui" line="935"/>
         <source>Template</source>
-        <translation>Sablon</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Templates add extra fields in the password generation dialogue and in the password view.</source>
-        <translation type="vanished">A sablonok további mezőket adnak hozzá a jelszó előállítási párbeszédpanelhez és a jelszó nézethez.</translation>
+        <location filename="../src/configdialog.ui" line="956"/>
+        <source>Templates add extra fields in the password generation dialogue, and in the password view.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="965"/>
         <source>Use template</source>
-        <translation>Sablonhasználat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="972"/>
         <source>Show all lines beginning with a word followed by a colon as fields in password fields, not only the listed ones</source>
-        <translation>Minden sor megjelenítése ami egy szóval kezdődik, amit egy kettőspont követ jelszómezőben, nem csak a felsoroltakban</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="975"/>
         <source>Show all fields templated</source>
-        <translation>Az összes mező megjelenítése</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/configdialog.ui" line="987"/>
         <source>login
-url
-email</source>
-        <translation type="vanished">belépés
-url
-e-mail</translation>
+URL
+e-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="1002"/>
         <source>&lt;a href=&quot;https://QtPass.org/&quot;&gt;QtPass&lt;/a&gt; version </source>
-        <translation type="unfinished">&lt;a href=&quot;https://QtPass.org/&quot;&gt;QtPass&lt;/a&gt; version </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.cpp" line="47"/>
         <source>System tray is not available</source>
-        <translation>A tálca nem érhető el</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/configdialog.cpp" line="72"/>
@@ -401,76 +410,9 @@ e-mail</translation>
         <source>The folder %1 doesn&apos;t seem to be a password store or is not yet initialised.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="394"/>
-        <source>Use PWGen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="456"/>
-        <source>Use Git</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="525"/>
-        <source>Use QRencode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="539"/>
-        <source>Use pass-otp extension</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="646"/>
-        <source>Nati&amp;ve Git/GPG</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="683"/>
-        <source>Git</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="693"/>
-        <location filename="../src/configdialog.ui" line="700"/>
-        <location filename="../src/configdialog.ui" line="727"/>
-        <location filename="../src/configdialog.ui" line="758"/>
-        <location filename="../src/configdialog.ui" line="922"/>
-        <source>…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="707"/>
-        <source>GPG</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="720"/>
-        <source>PWGen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="956"/>
-        <source>Templates add extra fields in the password generation dialogue, and in the password view.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/configdialog.ui" line="987"/>
-        <source>login
-URL
-e-mail</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ImitatePass</name>
-    <message>
-        <location filename="../src/imitatepass.cpp" line="245"/>
-        <location filename="../src/imitatepass.cpp" line="332"/>
-        <source>Updating password-store</source>
-        <translation>Jelszó-tároló frissítése</translation>
-    </message>
     <message>
         <location filename="../src/imitatepass.cpp" line="95"/>
         <location filename="../src/imitatepass.cpp" line="298"/>
@@ -509,6 +451,12 @@ You will not be able to decrypt any newly added passwords!</source>
         <source>Re-encrypting from folder %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../src/imitatepass.cpp" line="245"/>
+        <location filename="../src/imitatepass.cpp" line="332"/>
+        <source>Updating password-store</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeygenDialog</name>
@@ -530,7 +478,7 @@ You will not be able to decrypt any newly added passwords!</source>
     <message>
         <location filename="../src/keygendialog.ui" line="128"/>
         <source>Name</source>
-        <translation type="unfinished">név</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/keygendialog.ui" line="157"/>
@@ -602,69 +550,7 @@ Expire-Date: 0
     <message>
         <location filename="../src/mainwindow.ui" line="14"/>
         <source>QtPass</source>
-        <translation>QtPass</translation>
-    </message>
-    <message>
-        <location filename="../src/mainwindow.ui" line="360"/>
-        <source>Update</source>
-        <translation>Frissítés</translation>
-    </message>
-    <message>
-        <location filename="../src/mainwindow.ui" line="379"/>
-        <source>Configuration</source>
-        <translation>Konfiguráció</translation>
-    </message>
-    <message>
-        <location filename="../src/mainwindow.ui" line="376"/>
-        <source>Config</source>
-        <translation>Konfig</translation>
-    </message>
-    <message>
-        <source>qtpass</source>
-        <translation type="vanished">qtpass</translation>
-    </message>
-    <message>
-        <location filename="../src/mainwindow.cpp" line="277"/>
-        <location filename="../src/mainwindow.cpp" line="289"/>
-        <source>Updating password-store</source>
-        <translation>Jelszó-tároló frissítése</translation>
-    </message>
-    <message>
-        <source>Clipboard cleared</source>
-        <translation type="vanished">Vágólap tiszta</translation>
-    </message>
-    <message>
-        <location filename="../src/mainwindow.cpp" line="388"/>
-        <source>Content hidden</source>
-        <translation>Oldal elrejtve</translation>
-    </message>
-    <message>
-        <source>QProcess::FailedToStart</source>
-        <translation type="vanished">QProcess:NemIndultEl</translation>
-    </message>
-    <message>
-        <source>QProcess::Crashed</source>
-        <translation type="vanished">QProcess:Összeomlás</translation>
-    </message>
-    <message>
-        <source>QProcess::Timedout</source>
-        <translation type="vanished">QProcess:Időtúllépés</translation>
-    </message>
-    <message>
-        <source>QProcess::ReadError</source>
-        <translation type="vanished">QProcess:OlvasásiHiba</translation>
-    </message>
-    <message>
-        <source>QProcess::WriteError</source>
-        <translation type="vanished">IrásHiba</translation>
-    </message>
-    <message>
-        <source>QProcess::UnknownError</source>
-        <translation type="vanished">IsmeretlenHiba</translation>
-    </message>
-    <message>
-        <source>Copied to clipboard</source>
-        <translation type="vanished">a vágólapra másolt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="64"/>
@@ -679,6 +565,14 @@ Expire-Date: 0
     <message>
         <location filename="../src/mainwindow.ui" line="193"/>
         <source>Welcome to QtPass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/mainwindow.ui" line="249"/>
+        <source>&lt;p&gt;QtPass is a GUI for &lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;pass&lt;/a&gt;, the standard unix password manager.&lt;/p&gt;
+&lt;p&gt;Please report any &lt;a href=&quot;https://github.com/IJHack/qtpass/issues&quot;&gt;issues&lt;/a&gt; you might have with this software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://qtpass.org/&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/IJHack/qtpass&quot;&gt;SourceCode&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -712,7 +606,7 @@ Expire-Date: 0
         <location filename="../src/mainwindow.ui" line="336"/>
         <location filename="../src/mainwindow.cpp" line="929"/>
         <source>Delete</source>
-        <translation type="unfinished">Töröl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="341"/>
@@ -740,6 +634,11 @@ Expire-Date: 0
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/mainwindow.ui" line="360"/>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/mainwindow.ui" line="363"/>
         <source>git pull</source>
         <translation type="unfinished"></translation>
@@ -756,8 +655,29 @@ Expire-Date: 0
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/mainwindow.ui" line="376"/>
+        <source>Config</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/mainwindow.ui" line="379"/>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/mainwindow.cpp" line="190"/>
         <source>Welcome to QtPass %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/mainwindow.cpp" line="277"/>
+        <location filename="../src/mainwindow.cpp" line="289"/>
+        <source>Updating password-store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/mainwindow.cpp" line="388"/>
+        <source>Content hidden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -860,14 +780,6 @@ Expire-Date: 0
         <source>Rename File To: </source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../src/mainwindow.ui" line="249"/>
-        <source>&lt;p&gt;QtPass is a GUI for &lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;pass&lt;/a&gt;, the standard unix password manager.&lt;/p&gt;
-&lt;p&gt;Please report any &lt;a href=&quot;https://github.com/IJHack/qtpass/issues&quot;&gt;issues&lt;/a&gt; you might have with this software.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://qtpass.org/&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/IJHack/qtpass&quot;&gt;SourceCode&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Pass</name>
@@ -908,22 +820,22 @@ Expire-Date: 0
     <message>
         <location filename="../src/passworddialog.ui" line="110"/>
         <source>All Characters</source>
-        <translation type="unfinished">Összes karakter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/passworddialog.ui" line="115"/>
         <source>Alphabetical</source>
-        <translation type="unfinished">Betűrendes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/passworddialog.ui" line="120"/>
         <source>Alphanumerical</source>
-        <translation type="unfinished">Alfanumerikus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/passworddialog.ui" line="125"/>
         <source>Custom</source>
-        <translation type="unfinished">Egyedi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/passworddialog.ui" line="139"/>
@@ -936,51 +848,11 @@ Expire-Date: 0
     <message>
         <location filename="../main/main.cpp" line="87"/>
         <source>LTR</source>
-        <translation>LTR</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QtPass</name>
-    <message>
-        <location filename="../src/qtpass.cpp" line="237"/>
-        <source>QProcess::FailedToStart</source>
-        <translation>QProcess:NemIndultEl</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="240"/>
-        <source>QProcess::Crashed</source>
-        <translation>QProcess:Összeomlás</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="243"/>
-        <source>QProcess::Timedout</source>
-        <translation>QProcess:Időtúllépés</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="246"/>
-        <source>QProcess::ReadError</source>
-        <translation>QProcess:OlvasásiHiba</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="249"/>
-        <source>QProcess::WriteError</source>
-        <translation>IrásHiba</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="252"/>
-        <source>QProcess::UnknownError</source>
-        <translation>IsmeretlenHiba</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="379"/>
-        <source>Clipboard cleared</source>
-        <translation>Vágólap tiszta</translation>
-    </message>
-    <message>
-        <location filename="../src/qtpass.cpp" line="400"/>
-        <source>Copied to clipboard</source>
-        <translation>a vágólapra másolt</translation>
-    </message>
     <message>
         <location filename="../src/qtpass.cpp" line="139"/>
         <source>Generating GPG key pair</source>
@@ -1015,8 +887,48 @@ Expire-Date: 0
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/qtpass.cpp" line="237"/>
+        <source>QProcess::FailedToStart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="240"/>
+        <source>QProcess::Crashed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="243"/>
+        <source>QProcess::Timedout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="246"/>
+        <source>QProcess::ReadError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="249"/>
+        <source>QProcess::WriteError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="252"/>
+        <source>QProcess::UnknownError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="379"/>
+        <source>Clipboard cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/qtpass.cpp" line="381"/>
         <source>Clipboard not cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qtpass.cpp" line="400"/>
+        <source>Copied to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
