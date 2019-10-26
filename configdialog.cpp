@@ -2,6 +2,7 @@
 #include "keygendialog.h"
 #include "mainwindow.h"
 #include "ui_configdialog.h"
+#include <algorithm>
 #include <QDebug>
 #include <QDir>
 #include <QMessageBox>
@@ -488,7 +489,7 @@ void ConfigDialog::on_deleteButton_clicked() {
     selectedRows.insert(item->row());
   // get a list, and sort it big to small
   QList<int> rows = selectedRows.toList();
-  qSort(rows.begin(), rows.end());
+  std::sort(rows.begin(), rows.end());
   // now actually do the removing:
   foreach (int row, rows)
     ui->profileTable->removeRow(row);
