@@ -111,7 +111,7 @@ public:
   QStringList getSecretKeys();
   void generateKeyPair(QString, QDialog *);
   void userDialog(QString = "");
-  QString generatePassword(int length, clipBoardType selection);
+  QString generatePassword(unsigned int length, clipBoardType selection);
   void config();
   void executePassGitInit();
 

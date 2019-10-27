@@ -3,6 +3,13 @@
 
 #include <QProcessEnvironment>
 #include <QString>
+#if QT_VERSION >= QT_VERSION_CHECK(5, 10, 0)
+#include <QRandomGenerator>
+#else
+#include <fcntl.h>
+#include <unistd.h>
+#endif
+#include <cassert>
 
 /*!
     \class Util
@@ -16,6 +23,8 @@ public:
   static bool checkConfig(QString passStore, QString passExecutable,
                           QString gpgExecutable);
   static void qSleep(int ms);
+  static QString generateRandomPassword(const QString &charset, unsigned int length);
+  static quint32 boundedRandom(quint32 bound);
 
 private:
   static void initialiseEnvironment();

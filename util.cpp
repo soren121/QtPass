@@ -137,3 +137,41 @@ void Util::qSleep(int ms) {
   nanosleep(&ts, NULL);
 #endif
 }
+
+/* Copyright (C) 2017 Jason A. Donenfeld <Jason@zx2c4.com>. All Rights Reserved.
+ */
+
+quint32 Util::boundedRandom(quint32 bound) {
+  if (bound < 2) {
+    return 0;
+  }
+
+  quint32 randval;
+  const quint32 max_mod_bound = (1 + ~bound) % bound;
+
+#if QT_VERSION < QT_VERSION_CHECK(5, 10, 0)
+  static int fd = -1;
+  if (fd == -1) {
+    assert((fd = open("/dev/urandom", O_RDONLY)) >= 0);
+  }
+#endif
+
+  do {
+#if QT_VERSION < QT_VERSION_CHECK(5, 10, 0)
+    assert(read(fd, &randval, sizeof(randval)) == sizeof(randval));
+#else
+    randval = QRandomGenerator::system()->generate();
+#endif
+  } while (randval < max_mod_bound);
+
+  return randval % bound;
+}
+
+QString Util::generateRandomPassword(const QString &charset, unsigned int length) {
+  QString out;
+  for (unsigned int i = 0; i < length; ++i) {
+    out.append(charset.at(static_cast<int>(
+        boundedRandom(static_cast<quint32>(charset.length())))));
+  }
+  return out;
+}

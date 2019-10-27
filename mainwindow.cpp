@@ -1882,7 +1882,7 @@ void MainWindow::editPassword() {
  * @return the password
  */
 // TODO Jounathaen Passwordlength as call parameter
-QString MainWindow::generatePassword(int length, clipBoardType selection) {
+QString MainWindow::generatePassword(unsigned int length, clipBoardType selection) {
   QString passwd;
   if (usePwgen) {
     waitFor(2);
@@ -1900,13 +1900,8 @@ QString MainWindow::generatePassword(int length, clipBoardType selection) {
     else
       qDebug() << "pwgen fail";
   } else {
-    int charsetLength = pwdConfig.Characters[selection].length();
-    if (charsetLength > 0) {
-      for (int i = 0; i < length; ++i) {
-        int index = qrand() % charsetLength;
-        QChar nextChar = pwdConfig.Characters[selection].at(index);
-        passwd.append(nextChar);
-      }
+    if (pwdConfig.Characters[selection].length() > 0) {
+      passwd = Util::generateRandomPassword(pwdConfig.Characters[selection], length);
     } else {
       QMessageBox::critical(
           this, tr("No characters chosen"),
