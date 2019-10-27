@@ -9,47 +9,47 @@
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="670"/>
+        <location filename="../configdialog.ui" line="681"/>
         <source>gpg</source>
         <translation>gpg</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="646"/>
+        <location filename="../configdialog.ui" line="657"/>
         <source>git</source>
         <translation>git</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="700"/>
+        <location filename="../configdialog.ui" line="711"/>
         <source>Pass</source>
         <translation>Pass</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="656"/>
-        <location filename="../configdialog.ui" line="663"/>
-        <location filename="../configdialog.ui" line="690"/>
-        <location filename="../configdialog.ui" line="721"/>
-        <location filename="../configdialog.ui" line="844"/>
+        <location filename="../configdialog.ui" line="667"/>
+        <location filename="../configdialog.ui" line="674"/>
+        <location filename="../configdialog.ui" line="701"/>
+        <location filename="../configdialog.ui" line="732"/>
+        <location filename="../configdialog.ui" line="855"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="640"/>
+        <location filename="../configdialog.ui" line="651"/>
         <source>Native</source>
         <translation>Nativ</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="616"/>
+        <location filename="../configdialog.ui" line="627"/>
         <source>&amp;Use pass</source>
         <translation>&amp;Använd pass</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="475"/>
+        <location filename="../configdialog.ui" line="486"/>
         <source>Automatically add .gpg-id files</source>
         <translation>Skapa .gpg-id filer automatiskt</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="116"/>
-        <location filename="../configdialog.ui" line="199"/>
+        <location filename="../configdialog.ui" line="121"/>
+        <location filename="../configdialog.ui" line="204"/>
         <source>Seconds</source>
         <translation>Sekunder</translation>
     </message>
@@ -59,129 +59,129 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="99"/>
+        <location filename="../configdialog.ui" line="104"/>
         <source>Autoclear after:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="148"/>
+        <location filename="../configdialog.ui" line="153"/>
         <source>Password Behaviour:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="167"/>
+        <location filename="../configdialog.ui" line="172"/>
         <source>Hide password</source>
         <translation>Dölj lösenord</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="176"/>
+        <location filename="../configdialog.ui" line="181"/>
         <source>Autoclear panel after:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="233"/>
+        <location filename="../configdialog.ui" line="238"/>
         <source>Password Generation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="245"/>
+        <location filename="../configdialog.ui" line="250"/>
         <source>Password Length:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="307"/>
+        <location filename="../configdialog.ui" line="318"/>
         <source>Use characters:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="325"/>
+        <location filename="../configdialog.ui" line="336"/>
         <source>Select character set for password generation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="329"/>
+        <location filename="../configdialog.ui" line="340"/>
         <source>All Characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="334"/>
+        <location filename="../configdialog.ui" line="345"/>
         <source>Alphabetical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="339"/>
+        <location filename="../configdialog.ui" line="350"/>
         <source>Alphanumerical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="344"/>
+        <location filename="../configdialog.ui" line="355"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="406"/>
+        <location filename="../configdialog.ui" line="417"/>
         <source>Exclude capital letters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="423"/>
+        <location filename="../configdialog.ui" line="434"/>
         <source>Generate easy to memorize but less secure passwords</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="430"/>
+        <location filename="../configdialog.ui" line="441"/>
         <source>Exclude numbers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="449"/>
+        <location filename="../configdialog.ui" line="460"/>
         <source>Git:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="524"/>
+        <location filename="../configdialog.ui" line="535"/>
         <source>System:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="600"/>
+        <location filename="../configdialog.ui" line="611"/>
         <source>Select password storage program:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="609"/>
+        <location filename="../configdialog.ui" line="620"/>
         <source>Nati&amp;ve git/gpg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="711"/>
+        <location filename="../configdialog.ui" line="722"/>
         <source>pass</source>
         <translation>pass</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="921"/>
+        <location filename="../configdialog.ui" line="932"/>
         <source>&lt;a href=&quot;https://QtPass.org/&quot;&gt;QtPass&lt;/a&gt; version </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="557"/>
+        <location filename="../configdialog.ui" line="568"/>
         <source>Always on top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="906"/>
+        <location filename="../configdialog.ui" line="917"/>
         <source>login
 url
 email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="582"/>
+        <location filename="../configdialog.ui" line="593"/>
         <source>Programs</source>
         <translation>Program</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="683"/>
+        <location filename="../configdialog.ui" line="694"/>
         <source>pwgen</source>
         <translation>pwgen</translation>
     </message>
@@ -191,117 +191,117 @@ email</source>
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="279"/>
+        <location filename="../configdialog.ui" line="290"/>
         <source>Characters</source>
         <translation>Tecken</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="399"/>
+        <location filename="../configdialog.ui" line="410"/>
         <source>Use pwgen</source>
         <translation>Använd pwgen</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="536"/>
+        <location filename="../configdialog.ui" line="547"/>
         <source>Use TrayIcon</source>
         <translation>Använd TrayIcon</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="550"/>
+        <location filename="../configdialog.ui" line="561"/>
         <source>Hide on close</source>
         <translation>Dölj vid nerstängning</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="482"/>
+        <location filename="../configdialog.ui" line="493"/>
         <source>Automatically push</source>
         <translation>Automatisk push</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="489"/>
+        <location filename="../configdialog.ui" line="500"/>
         <source>Automatically pull</source>
         <translation>Automatisk pull</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="461"/>
+        <location filename="../configdialog.ui" line="472"/>
         <source>Use git</source>
         <translation>Använd git</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="416"/>
+        <location filename="../configdialog.ui" line="427"/>
         <source>Include special symbols </source>
         <translation>Inkludera specialtecken</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="382"/>
+        <location filename="../configdialog.ui" line="393"/>
         <source>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</source>
         <translation>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="543"/>
+        <location filename="../configdialog.ui" line="554"/>
         <source>Start minimized</source>
         <translation>Starta minimerad</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="730"/>
+        <location filename="../configdialog.ui" line="741"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.passwordstore.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="760"/>
+        <location filename="../configdialog.ui" line="771"/>
         <source>Profiles</source>
         <translation>Profiler</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="794"/>
+        <location filename="../configdialog.ui" line="805"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="799"/>
+        <location filename="../configdialog.ui" line="810"/>
         <source>Path</source>
         <translation>Sökväg</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="809"/>
+        <location filename="../configdialog.ui" line="820"/>
         <source>Add</source>
         <translation>Lägg till</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="837"/>
+        <location filename="../configdialog.ui" line="848"/>
         <source>Current password-store</source>
         <translation>Nuvarande lösenordsutrymme</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="857"/>
+        <location filename="../configdialog.ui" line="868"/>
         <source>Template</source>
         <translation>Mall</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="878"/>
+        <location filename="../configdialog.ui" line="889"/>
         <source>Templates add extra fields in the password generation dialouge and in the password view.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="887"/>
+        <location filename="../configdialog.ui" line="898"/>
         <source>Use template</source>
         <translation>Använd mall</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="897"/>
+        <location filename="../configdialog.ui" line="908"/>
         <source>Show all fields templated</source>
         <translation>Visa samtliga fält i mallen</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="894"/>
+        <location filename="../configdialog.ui" line="905"/>
         <source>Show all lines beginning with a word followed by a colon as fields in password fields, not only the listed ones</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="823"/>
+        <location filename="../configdialog.ui" line="834"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="160"/>
+        <location filename="../configdialog.ui" line="165"/>
         <source>Hide content</source>
         <translation>Dölj innehåll</translation>
     </message>

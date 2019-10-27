@@ -19,282 +19,282 @@
         <translation>剪贴板选项：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="99"/>
+        <location filename="../configdialog.ui" line="104"/>
         <source>Autoclear after:</source>
         <translation>清除剪贴板</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="116"/>
-        <location filename="../configdialog.ui" line="199"/>
+        <location filename="../configdialog.ui" line="121"/>
+        <location filename="../configdialog.ui" line="204"/>
         <source>Seconds</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="148"/>
+        <location filename="../configdialog.ui" line="153"/>
         <source>Password Behaviour:</source>
         <translation>密码显示：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="160"/>
+        <location filename="../configdialog.ui" line="165"/>
         <source>Hide content</source>
         <translation>隐藏内容</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="167"/>
+        <location filename="../configdialog.ui" line="172"/>
         <source>Hide password</source>
         <translation>隐藏密码</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="176"/>
+        <location filename="../configdialog.ui" line="181"/>
         <source>Autoclear panel after:</source>
         <translation>自动隐藏密码：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="233"/>
+        <location filename="../configdialog.ui" line="238"/>
         <source>Password Generation:</source>
         <translation>密码生成选项：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="245"/>
+        <location filename="../configdialog.ui" line="250"/>
         <source>Password Length:</source>
         <translation>密码长度：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="279"/>
+        <location filename="../configdialog.ui" line="290"/>
         <source>Characters</source>
         <translation>位</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="307"/>
+        <location filename="../configdialog.ui" line="318"/>
         <source>Use characters:</source>
         <translation>所用字符：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="325"/>
+        <location filename="../configdialog.ui" line="336"/>
         <source>Select character set for password generation</source>
         <translation>选择密码所用的的字符集</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="329"/>
+        <location filename="../configdialog.ui" line="340"/>
         <source>All Characters</source>
         <translation>所有字符</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="334"/>
+        <location filename="../configdialog.ui" line="345"/>
         <source>Alphabetical</source>
         <translation>英文字母</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="339"/>
+        <location filename="../configdialog.ui" line="350"/>
         <source>Alphanumerical</source>
         <translation>字母和数字</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="344"/>
+        <location filename="../configdialog.ui" line="355"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="382"/>
+        <location filename="../configdialog.ui" line="393"/>
         <source>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</source>
         <translation>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="399"/>
+        <location filename="../configdialog.ui" line="410"/>
         <source>Use pwgen</source>
         <translation>使用 pwgen</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="406"/>
+        <location filename="../configdialog.ui" line="417"/>
         <source>Exclude capital letters</source>
         <translation>不包含大写字母</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="416"/>
+        <location filename="../configdialog.ui" line="427"/>
         <source>Include special symbols </source>
         <translation>包含特殊符号</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="423"/>
+        <location filename="../configdialog.ui" line="434"/>
         <source>Generate easy to memorize but less secure passwords</source>
         <translation>生成好记的密码（不安全）</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="430"/>
+        <location filename="../configdialog.ui" line="441"/>
         <source>Exclude numbers</source>
         <translation>不包含数字</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="449"/>
+        <location filename="../configdialog.ui" line="460"/>
         <source>Git:</source>
         <translation>Git选项：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="461"/>
+        <location filename="../configdialog.ui" line="472"/>
         <source>Use git</source>
         <translation>使用 git</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="475"/>
+        <location filename="../configdialog.ui" line="486"/>
         <source>Automatically add .gpg-id files</source>
         <translation>自动添加 gpg-id 文件</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="482"/>
+        <location filename="../configdialog.ui" line="493"/>
         <source>Automatically push</source>
         <translation>自动上传</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="489"/>
+        <location filename="../configdialog.ui" line="500"/>
         <source>Automatically pull</source>
         <translation>自动更新合并</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="524"/>
+        <location filename="../configdialog.ui" line="535"/>
         <source>System:</source>
         <translation>系统选项：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="536"/>
+        <location filename="../configdialog.ui" line="547"/>
         <source>Use TrayIcon</source>
         <translation>显示托盘图标</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="543"/>
+        <location filename="../configdialog.ui" line="554"/>
         <source>Start minimized</source>
         <translation>启动后隐藏窗口</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="550"/>
+        <location filename="../configdialog.ui" line="561"/>
         <source>Hide on close</source>
         <translation>关闭窗口后台运行</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="557"/>
+        <location filename="../configdialog.ui" line="568"/>
         <source>Always on top</source>
         <translation>始终在前</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="582"/>
+        <location filename="../configdialog.ui" line="593"/>
         <source>Programs</source>
         <translation>程序</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="600"/>
+        <location filename="../configdialog.ui" line="611"/>
         <source>Select password storage program:</source>
         <translation>选择管理密码的程序：</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="609"/>
+        <location filename="../configdialog.ui" line="620"/>
         <source>Nati&amp;ve git/gpg</source>
         <translation>使用原生 git/gpg（推荐） (&amp;V)</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="616"/>
+        <location filename="../configdialog.ui" line="627"/>
         <source>&amp;Use pass</source>
         <translation>使用 pass (&amp;U)</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="640"/>
+        <location filename="../configdialog.ui" line="651"/>
         <source>Native</source>
         <translation>命令路径</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="646"/>
+        <location filename="../configdialog.ui" line="657"/>
         <source>git</source>
         <translation>git</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="656"/>
-        <location filename="../configdialog.ui" line="663"/>
-        <location filename="../configdialog.ui" line="690"/>
-        <location filename="../configdialog.ui" line="721"/>
-        <location filename="../configdialog.ui" line="844"/>
+        <location filename="../configdialog.ui" line="667"/>
+        <location filename="../configdialog.ui" line="674"/>
+        <location filename="../configdialog.ui" line="701"/>
+        <location filename="../configdialog.ui" line="732"/>
+        <location filename="../configdialog.ui" line="855"/>
         <source>...</source>
         <translation>浏览</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="670"/>
+        <location filename="../configdialog.ui" line="681"/>
         <source>gpg</source>
         <translation>gpg</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="683"/>
+        <location filename="../configdialog.ui" line="694"/>
         <source>pwgen</source>
         <translation>pwgen</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="700"/>
+        <location filename="../configdialog.ui" line="711"/>
         <source>Pass</source>
         <translation>Pass 路径</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="711"/>
+        <location filename="../configdialog.ui" line="722"/>
         <source>pass</source>
         <translation>pass</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="730"/>
+        <location filename="../configdialog.ui" line="741"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.passwordstore.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.passwordstore.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.passwordstore.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="760"/>
+        <location filename="../configdialog.ui" line="771"/>
         <source>Profiles</source>
         <translation>用户</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="794"/>
+        <location filename="../configdialog.ui" line="805"/>
         <source>Name</source>
         <translation>用户名</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="799"/>
+        <location filename="../configdialog.ui" line="810"/>
         <source>Path</source>
         <translation>密码库路径</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="809"/>
+        <location filename="../configdialog.ui" line="820"/>
         <source>Add</source>
         <translation>添加</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="823"/>
+        <location filename="../configdialog.ui" line="834"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="837"/>
+        <location filename="../configdialog.ui" line="848"/>
         <source>Current password-store</source>
         <translation>当前密码库路径</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="857"/>
+        <location filename="../configdialog.ui" line="868"/>
         <source>Template</source>
         <translation>模板</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="878"/>
+        <location filename="../configdialog.ui" line="889"/>
         <source>Templates add extra fields in the password generation dialouge and in the password view.</source>
         <translation>模版会以表单的形式显示在密码和编辑密码的窗口上（一行一个）</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="887"/>
+        <location filename="../configdialog.ui" line="898"/>
         <source>Use template</source>
         <translation>使用模板</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="894"/>
+        <location filename="../configdialog.ui" line="905"/>
         <source>Show all lines beginning with a word followed by a colon as fields in password fields, not only the listed ones</source>
         <translation>只要是密码文件中一个词或几个字加一个英文冒号的格式，都看作模版显示在密码框上，而不仅仅只显示下面列出的项目</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="897"/>
+        <location filename="../configdialog.ui" line="908"/>
         <source>Show all fields templated</source>
         <translation>显示所有模板项</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="906"/>
+        <location filename="../configdialog.ui" line="917"/>
         <source>login
 url
 email</source>
@@ -303,7 +303,7 @@ email</source>
 邮箱</translation>
     </message>
     <message>
-        <location filename="../configdialog.ui" line="921"/>
+        <location filename="../configdialog.ui" line="932"/>
         <source>&lt;a href=&quot;https://QtPass.org/&quot;&gt;QtPass&lt;/a&gt; version </source>
         <translation>&lt;a href=&quot;https://QtPass.org/&quot;&gt;QtPass&lt;/a&gt; 版本 </translation>
     </message>
